@@ -1,0 +1,15 @@
+numpy==2.2.6
+python-dotenv
+dotenv
+groq
+langchain
+langchain-community
+langchain_community
+langchain_groq
+langchain[google-genai]
+langchain-google-genai
+langchain_google_genai
+langchain_core
+langchain_cohere
+chromadb
+pypdf
